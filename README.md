@@ -29,3 +29,6 @@ Laboratorio desarrollado por **Alejandro Bohórquez** y **Simón Marín**
 
        Successfully created a Hexagon with 6 sides.
         
+*¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?:*
+
+Todas las instrucciones se ejecutan según la funcionalidad esperada del programa, los parámetros de entrada se generalizaron para las mayúsculas y minúsculas (propuesto por nosotros).
