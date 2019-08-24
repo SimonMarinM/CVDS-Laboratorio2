@@ -4,7 +4,7 @@ import edu.eci.cvds.patterns.shapes.Shape;
 
 /**
  *
- * @author 2152805
+ * Clase pentagono que representa una figura de 5 lados.
  */
 public class Pentagon implements Shape{
     @Override
