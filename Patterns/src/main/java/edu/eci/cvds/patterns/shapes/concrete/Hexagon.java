@@ -4,7 +4,7 @@ import edu.eci.cvds.patterns.shapes.Shape;
 
 /**
  *
- * @author 2152805
+ * Clase Hexagono que representa una figura de 6 lados.
  */
 public class Hexagon implements Shape{
 
