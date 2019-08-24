@@ -5,7 +5,7 @@ import edu.eci.cvds.patterns.shapes.Shape;
 
 /**
  *
- * @author 2152805
+ * clase cuadrilatero que representa una figura de 4 lados
  */
 public class Quadrilateral implements Shape{
 
