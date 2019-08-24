@@ -1,4 +1,8 @@
 package edu.eci.cvds.patterns.shapes;
+/**
+ * Clase Main del paquete shapes, encargado de crear y modificar figuras.
+ *
+ */
 public class ShapeMain {
     public static void main(String[] args) {
         if (args == null || args.length != 1) {
